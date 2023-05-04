@@ -1,0 +1,8 @@
+.idea/
+tmd67-data/
+tmd67-be-sdk/
+tmd67-be/
+run_https_dev.sh
+stunnel*
+*-dev/
+
